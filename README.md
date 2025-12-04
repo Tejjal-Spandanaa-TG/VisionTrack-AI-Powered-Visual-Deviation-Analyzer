@@ -54,8 +54,3 @@ yarn dev
 * Drone and cloud image ingestion pipeline
 * Explainability features using attention maps
 
-## Author
-
-Developed by Shalom Rakshana.
-
-Feel free to request additional documentation, backend integration, or a GitHub-ready repository structure.
